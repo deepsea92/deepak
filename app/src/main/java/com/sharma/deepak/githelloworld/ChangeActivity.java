@@ -5,6 +5,6 @@ package com.sharma.deepak.githelloworld;
  */
 
 public class ChangeActivity {
-    String s1="this is changed string";
+    String s1="this is changed string ";
 
 }
